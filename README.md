@@ -10,4 +10,4 @@ The applications consists of:
 - [report_individual.Rmd](https://github.com/hres/IP_Dashboard/blob/master/report_individual.Rmd) and [report_overall.Rmd](https://github.com/hres/IP_Dashboard/blob/master/report_overall.Rmd): Rmarkdown report templates for downloaded reports in the application
 
 
-Due to data privacy, the data files are not available in this Github account. For internal request, please contact nanqing.zhu@canada.ca
+Main author: nanqing.zhu@canada.ca
